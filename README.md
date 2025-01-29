@@ -3,21 +3,6 @@
 ## **📊 Dataset Overview**
 The dataset contains information on **happiness scores across different countries worldwide** and their correlation with **economic, health, and social factors**.
 
-### **📌 Features (Columns)**
-| Column | Description |
-|--------|-------------|
-| `OverallRank` | Rank of the country based on happiness score |
-| `Country` | Name of the country |
-| `Score` | Happiness score (target variable) |
-| `GDP per capita` | Economic prosperity per person |
-| `Social support` | Strength of social networks |
-| `Healthy life expectancy` | Expected healthy years of life |
-| `Freedom to make life choices` | Individual freedom level |
-| `Generosity` | Level of generosity in the country |
-| `Perceptions of corruption` | Perceived corruption in government |
-
----
-
 ## **🛠️ Technologies Used**
 ✅ Python 🐍  
 ✅ Pandas (for data manipulation)  
